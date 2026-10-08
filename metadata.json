@@ -1,0 +1,8 @@
+{
+  "name": "StudyMate App",
+  "description": "Your Smart Study Companion – Free, simple online tools for students worldwide to calculate, plan, study, and stay organized.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
